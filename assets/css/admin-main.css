@@ -1,0 +1,18 @@
+.button.delete-main-post {
+    color: #dc3545;
+    border-color: #dc3545;
+    background-color: #fff;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+.button.delete-main-post:hover {
+    color: #bb2d3b;
+    border-color: #b02a37;
+    background-color: #fff;
+}
+
+.mundana-upl img {
+    border-radius: 50%;
+    min-width: 150px;
+}
